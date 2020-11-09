@@ -1,0 +1,17 @@
+[project]
+name = honeybee
+url_style = relative
+ping_interval = 100000
+
+# need this for sitemap.xml url(external=True)
+url = http://localhost:5000/
+
+[theme_settings]
+# mickie, hollar, sunset,wandoo, graymor, electro, lymcha, deeply, minco, skeeblu, preptor, monotone
+
+# theme = sunset
+bootstrap = darkster.min.css
+is_dark_theme = true
+
+[packages]
+# Put example-site plugins here.
