@@ -15,3 +15,7 @@ is_dark_theme = true
 
 [packages]
 # Put example-site plugins here.
+
+[servers.production]
+target = rsync:///home/ianc/honeybee?delete=yes
+name = website
