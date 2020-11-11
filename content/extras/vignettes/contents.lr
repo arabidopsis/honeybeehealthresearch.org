@@ -5,14 +5,6 @@ body: Interdum et malesuada *fames* ac ante ipsum primis in faucibus. Morbi dict
 vignettes:
 
 #### vignette ####
-title: Morbi dapibus faucibus libero at placerat.
-----
-link: https://plantenergy.edu.au
-----
-icon: bee-smoke
-----
-text: Nunc vitae leo ullamcorper, pretium quam nec, egestas nibh. Aliquam et quam id est vestibulum placerat. Ut et metus posuere, convallis urna non, pulvinar velit. Maecenas ac nisi vitae eros finibus lobortis.
-#### vignette ####
 title: hola
 ----
 link: /gothere
@@ -33,11 +25,20 @@ Hire us we are *awesome*
 Hire us we are *awesome*
 Hire us we are *awesome*
 Hire us we are *awesome*
+Hire us we are *awesome*
 #### vignette ####
 title: Nunc tempor commodo veli
 ----
 link: /about
 ----
-icon: honey-comb
+icon: training-marketing
 ----
 text: Nunc tempor commodo velit, pulvinar egestas eros commodo et. Sed eu dolor sit amet ipsum pellentesque rutrum. Nam consequat semper eros sit amet ultrices. Praesent eu tellus id odio ullamcorper tempor.
+#### vignette ####
+title: Morbi dapibus faucibus libero at placerat.
+----
+link: https://plantenergy.edu.au
+----
+icon: bee-smoke
+----
+text: Nunc vitae leo ullamcorper, pretium quam nec, egestas nibh. Aliquam et quam id est vestibulum placerat. Ut et metus posuere, convallis urna non, pulvinar velit. Maecenas ac nisi vitae eros finibus lobortis.
