@@ -19,5 +19,5 @@ theme = sunset
 # Put example-site plugins here.
 
 [servers.production]
-target = rsync:///home/ianc/honeybee?delete=yes
+target = rsync:///var/www/websites4/honeybee/static?delete=yes
 name = website
