@@ -4,7 +4,7 @@ url_style = relative
 ping_interval = 2000
 
 # need this for sitemap.xml url(external=True)
-url = http://localhost:5000/
+url = https://honeybeehealthresearch.org/
 
 [theme_settings]
 # mickie, hollar, sunset,wandoo, graymor, electro, lymcha, deeply, minco, skeeblu, preptor, monotone
