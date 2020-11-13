@@ -4,15 +4,15 @@ _model: landing-page
 ---
 body:
 
-{# youtube 2NT05qEJxUk w-100 #}
+{{ youtube w1rdO2ouZoQ w-100 }}
 
-Tix
+Tix tix
 
 Sed tincidunt sollicitudin elit, non aliquam augue aliquet et. Aliquam pulvinar tristique ante. Vivamus rutrum sagittis interdum. Donec nunc augue, fringilla nec porttitor vitae, faucibus vitae est. Duis feugiat tristique mattis. Cras elit eros, blandit sit amet interdum quis, vulputate non enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque placerat aliquet dapibus. Integer tincidunt consequat ligula, et tristique libero sollicitudin a. Donec eu vulputate augue, ac convallis lectus. Etiam semper dui a aliquam sodales. Donec accumsan, purus non congue pretium, ipsum felis ornare ligula, eu efficitur odio quam nec magna. Aliquam feugiat vehicula lorem quis pellentesque. Fusce pulvinar dignissim lectus, eu ornare enim placerat id.
 
 ----
 
-{# tweet AgZero2030/status/1323474982131822592  align=left #}
+{{ tweet AgZero2030/status/1323474982131822592  align=left }}
 
 Duis consequat tristique lectus, ut varius turpis consequat vitae. Aenean in purus vel quam tincidunt facilisis. Pellentesque eget elementum mauris, et pulvinar metus. Quisque molestie, massa ut pharetra varius, nibh mi consequat nunc, id dignissim lectus diam ut sem. Suspendisse ac nisi vehicula, tempor velit vel, gravida ipsum. Integer in nunc et libero lacinia scelerisque vitae in leo. Fusce ultricies quis turpis sed egestas. Aenean eu maximus nulla.
 
@@ -30,6 +30,7 @@ Duis consequat tristique lectus, ut varius turpis consequat vitae. Aenean in pur
 * {{feature beer}}  **Bees!** 
 
 I was running around when i found a {{feature beer}} beer!
+
 
 ![mice: w-50 mx-auto d-block img-thumbnail border-warning shadow](mice)
 ---
