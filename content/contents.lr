@@ -25,13 +25,9 @@ Duis consequat tristique lectus, ut varius turpis consequat vitae. Aenean in pur
 * <i class="feature-circle fas fa-users"></i> **Outreach** Fully community oriented.
 * <i class="feature-circle fas fa-puzzle-piece"></i> **Research** Puttin  the pieces of the puzzle together.
 * <i class="feature-circle fas fa-pencil-alt"></i> **Advances** We have pursued research at the most advanced level.
-* <i class="feature-circle fas fa-language"></i> **Multilingual** We can speak multiple languages.
+* {{ feature language}} **Multilingual** We can speak multiple languages.
 * {{ feature globe }} **Or** use a short code
 * {{feature beer}}  **Bees!** 
 
-I was running around when i found a {{feature beer}} beer!
-
-
-![mice: w-50 mx-auto d-block img-thumbnail border-warning shadow](mice)
 ---
-header: Horse
+header: Drone2
