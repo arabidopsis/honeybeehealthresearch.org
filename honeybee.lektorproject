@@ -12,12 +12,11 @@ url = https://honeybeehealthresearch.org/
 # frontispiece = "Ha Ha Ha!"
 
 # theme = sunset
-bootstrap = darkster.min.css
-is_dark_theme = true
+# bootstrap = darkster.min.css
+is_dark_theme = false
 
 [packages]
-# need this plugin...
-# https://github.com/arabidopsis/lektor-shortcodes/archive/main.tar.gz = ""
+# packages
 
 [servers.production]
 target = rsync:///var/www/websites4/honeybee/static?delete=yes
