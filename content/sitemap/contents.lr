@@ -1,5 +1,8 @@
 _template: sitemap.html
 ---
-_model: none
+_model: sitemap
 ---
 _hidden: no
+---
+title: Site Map
+---

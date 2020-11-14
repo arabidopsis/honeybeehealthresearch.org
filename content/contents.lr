@@ -6,8 +6,6 @@ body:
 
 {{ youtube w1rdO2ouZoQ w-100 }}
 
-Tix tix
-
 Sed tincidunt sollicitudin elit, non aliquam augue aliquet et. Aliquam pulvinar tristique ante. Vivamus rutrum sagittis interdum. Donec nunc augue, fringilla nec porttitor vitae, faucibus vitae est. Duis feugiat tristique mattis. Cras elit eros, blandit sit amet interdum quis, vulputate non enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque placerat aliquet dapibus. Integer tincidunt consequat ligula, et tristique libero sollicitudin a. Donec eu vulputate augue, ac convallis lectus. Etiam semper dui a aliquam sodales. Donec accumsan, purus non congue pretium, ipsum felis ornare ligula, eu efficitur odio quam nec magna. Aliquam feugiat vehicula lorem quis pellentesque. Fusce pulvinar dignissim lectus, eu ornare enim placerat id.
 
 ----
@@ -20,14 +18,14 @@ Duis consequat tristique lectus, ut varius turpis consequat vitae. Aenean in pur
 
 # Full of Bees Wax!
 
-* <i class="feature-circle fas fa-bug"></i> **Bee Friendly** Committed to finding solutions to diseases in bees.
-* <i class="feature-circle fas fa-globe"></i> **International** Collaboration with many researchers from all around the world.
-* <i class="feature-circle fas fa-users"></i> **Outreach** Fully community oriented.
-* <i class="feature-circle fas fa-puzzle-piece"></i> **Research** Puttin  the pieces of the puzzle together.
-* <i class="feature-circle fas fa-pencil-alt"></i> **Advances** We have pursued research at the most advanced level.
-* {{ feature language}} **Multilingual** We can speak multiple languages.
-* {{ feature globe }} **Or** use a short code
-* {{feature beer}}  **Bees!** 
+* <i class="feature fas fa-bug"></i> **Bee Friendly** Committed to finding solutions to diseases in bees.
+* <i class="feature fas fa-globe"></i> **International** Collaboration with many researchers from all around the world.
+* <i class="feature fas fa-users"></i> **Outreach** Fully community oriented.
+* <i class="feature fas fa-puzzle-piece"></i> **Research** Puttin  the pieces of the puzzle together.
+* <i class="feature fas fa-pencil-alt"></i> **Advances** We have pursued research at the most advanced level.
+* {{ fa language feature }} **Multilingual** We can speak multiple languages.
+* {{ fa globe feature }} **Or** use a short code
+* {{ fa beer feature }}  **Bees!** 
 
 ---
 header: Drone2
