@@ -5,19 +5,19 @@ body: Interdum et malesuada *fames* ac ante ipsum primis in faucibus. Morbi dict
 vignettes:
 
 #### vignette ####
-title: hola
+title: Beekeeping
 ----
 link: /gothere
 ----
-icon: bee-smoke2
+icon: bee-smoke
 ----
 text: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi dictum scelerisque eros, vel semper augue vulputate eu. In hac habitasse platea dictumst. Sed ullamcorper volutpat lacinia. Etiam egestas bibendum sem id sodales. Etiam luctus in arcu non semper.
 #### vignette ####
-title: Nunc tempor commodo veli
+title: Nucs
 ----
 link: https://plantenergy.edu.au
 ----
-icon: honey-products
+icon: bee-hive
 ----
 text:
 
@@ -27,15 +27,15 @@ Hire us we are *awesome*
 Hire us we are *awesome*
 Hire us we are *awesome*
 #### vignette ####
-title: Nunc tempor commodo veli
+title: Queens
 ----
 link: /about
 ----
-icon: training-marketing
+icon: bee-nest
 ----
 text: Nunc tempor commodo velit, pulvinar egestas eros commodo et. Sed eu dolor sit amet ipsum pellentesque rutrum. Nam consequat semper eros sit amet ultrices. Praesent eu tellus id odio ullamcorper tempor.
 #### vignette ####
-title: Morbi dapibus faucibus libero at placerat.
+title: Training
 ----
 link: https://plantenergy.edu.au
 ----

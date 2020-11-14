@@ -1,13 +1,5 @@
 _model: publications
 ---
-title: Publications
+title: Honey Bee Health group publications
 ---
-body:
-
-# Honey bee Health Publications
-
-Aenean facilisis accumsan interdum. Aenean elementum tincidunt augue in vestibulum. Donec vitae venenatis metus. Pellentesque non lacus lectus. Aliquam auctor purus at diam dignissim, at ultricies diam luctus. Aenean ut justo tempor, fringilla justo non, ullamcorper tortor. Morbi molestie, erat et volutpat pharetra, tellus metus viverra leo, varius luctus orci lectus vel diam.
-
-Aliquam semper mollis fermentum. Nullam malesuada eros purus, sit amet condimentum ante aliquet in. Fusce malesuada est ex, ut accumsan dolor pellentesque eget. Ut quis ultrices felis. In vel vehicula lorem, quis tincidunt arcu. Nullam at fermentum est. Suspendisse malesuada, purus a vestibulum tristique, lorem leo elementum elit, eu gravida justo neque a magna. Sed rutrum accumsan augue, sit amet gravida justo tempus et. Cras ultricies leo a mi semper, vitae iaculis elit finibus. Sed finibus placerat dui, id dignissim ex. Aliquam erat volutpat.
-
-
+body: 
