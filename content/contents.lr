@@ -13,7 +13,7 @@ Honey bees are of central importance for human food production and a healthy eco
 
 ----
 
-{# tweet AgZero2030/status/1323474982131822592  align=left #}
+{{ tweet AgZero2030/status/1323474982131822592  align=left }}
 
 Honey bee field work
 
@@ -34,3 +34,5 @@ We maintain a beeyard at the University of Western Australia to breed and mainta
 
 ---
 header: Drone2
+---
+navbar: fergel
