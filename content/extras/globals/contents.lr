@@ -1,3 +1,13 @@
 _model: globals
 ---
-highlight: orange
+highlight: #ffa500
+---
+facebook: honeybee
+---
+headercolor: #ffffff
+---
+instagram: honeybee
+---
+twitter: honeybee
+---
+youtube: honeybee

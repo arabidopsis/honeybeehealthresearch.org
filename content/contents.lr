@@ -34,3 +34,12 @@ We maintain a beeyard at the University of Western Australia to breed and mainta
 
 ---
 header: Drone2
+---
+fragments:
+
+#### highlight ####
+path: /extras/parallax
+#### highlight ####
+path: /extras/vignettes
+#### highlight ####
+path: /extras/highlights
