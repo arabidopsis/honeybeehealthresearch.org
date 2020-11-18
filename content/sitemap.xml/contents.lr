@@ -1,5 +1,7 @@
+_model: sitemap-xml
+---
 _template: sitemap.xml
 ---
-_model: none
----
 _discoverable: no
+---
+changefreq: monthly

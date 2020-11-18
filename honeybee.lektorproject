@@ -9,11 +9,9 @@ url = https://honeybeehealthresearch.org/
 [theme_settings]
 # mickie, hollar, sunset,wandoo, graymor, electro, lymcha, deeply, minco, skeeblu, preptor, monotone
 
-# frontispiece = "Ha Ha Ha!"
-
 theme = sunset
-# bootstrap = darkster.min.css
-is_dark_theme = false
+bootstrap = darkster.min.css
+is_dark_theme = true
 
 [packages]
 # packages

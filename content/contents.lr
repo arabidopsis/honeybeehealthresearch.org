@@ -4,7 +4,7 @@ _model: landing-page
 ---
 body:
 
-{{ youtube w1rdO2ouZoQ w-100 }}
+{# youtube w1rdO2ouZoQ w-100 #}
 
 Honey Bee Health Research Group: An overview
 Honey bees and the beekeeping industry under threat
@@ -13,7 +13,7 @@ Honey bees are of central importance for human food production and a healthy eco
 
 ----
 
-{{ tweet AgZero2030/status/1323474982131822592  align=left }}
+{# tweet AgZero2030/status/1323474982131822592  align=left #}
 
 Honey bee field work
 
@@ -33,6 +33,15 @@ We maintain a beeyard at the University of Western Australia to breed and mainta
 * {{ fa beer feature }}  **Bees!** 
 
 ---
-header: Drone2
+header: rfid-drone2.jpg
 ---
 navbar: fergel
+---
+fragments:
+
+#### highlight ####
+path: /extras/parallax
+#### highlight ####
+path: /extras/vignettes
+#### highlight ####
+path: /extras/highlights

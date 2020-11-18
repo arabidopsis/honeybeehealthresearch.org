@@ -1,5 +1,7 @@
-_model: none
----
-_template: 404.html
+_model: 404
 ---
 _discoverable: no
+---
+sorry: 
+---
+color: #ffffff

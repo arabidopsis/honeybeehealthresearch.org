@@ -1,3 +1,21 @@
 _model: globals
 ---
-highlight: blue
+highlight: #23b823
+---
+headertext: The Honey Bee Research Group
+---
+headercolor: #ffffff
+---
+email: aaa
+---
+twitter: mytwitter
+---
+instagram: myinstagram
+---
+facebook: myfacebook
+---
+pinterest: ddddd
+---
+youtube: ttttt
+---
+_discoverable: no

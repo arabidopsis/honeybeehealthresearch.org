@@ -1,7 +1,5 @@
 _model: carousel
 ---
-title: Highlights
+title: Carousel
 ---
-slideshow: mice-2.jpg, 2011-11-07-12.27.41.jpg, trabant3.jpg, ddr-room.jpg, rachel.jpg, cap nat 2, cap nat, fighting mice a microcosm of life, Penguins can dance!, life in GDR, Ha Ha Ha Ha!, augusta, Nature paper, Berlin
----
-_discoverable: no
+slideshow: mice-2.jpg, 2011-11-07-12.27.41.jpg, trabant3.jpg, ddr-room.jpg, rachel.jpg, cap nat 2, cap nat, fighting mice a microcosm of life, Penguins can dance!, life in GDR, Ha Ha Ha Ha!, augusta, Nature paper, Berlin, penguins.jpg
