@@ -16,6 +16,7 @@ theme = sunset
 is_dark_theme = false
 
 [packages]
+lektor-markdown-highlighter = 0.3.1
 # packages
 
 [servers.production]
