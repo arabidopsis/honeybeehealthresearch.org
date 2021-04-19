@@ -11,7 +11,7 @@ link: /gothere
 ----
 icon: bee-smoke
 ----
-text: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi dictum scelerisque eros, vel semper augue vulputate eu. In hac habitasse platea dictumst. Sed ullamcorper volutpat lacinia. Etiam egestas bibendum sem id sodales. Etiam luctus in arcu non semper.
+text: Add some text
 #### vignette ####
 title: Nucs
 ----
@@ -19,13 +19,7 @@ link: https://plantenergy.edu.au
 ----
 icon: bee-hive
 ----
-text:
-
-Hire us we are *awesome*
-Hire us we are *awesome*
-Hire us we are *awesome*
-Hire us we are *awesome*
-Hire us we are *awesome*
+text: Add some text
 #### vignette ####
 title: Queens
 ----
@@ -33,7 +27,7 @@ link: /about
 ----
 icon: bee-nest
 ----
-text: Nunc tempor commodo velit, pulvinar egestas eros commodo et. Sed eu dolor sit amet ipsum pellentesque rutrum. Nam consequat semper eros sit amet ultrices. Praesent eu tellus id odio ullamcorper tempor.
+text: Add some text
 #### vignette ####
 title: Training
 ----
@@ -41,4 +35,4 @@ link: https://plantenergy.edu.au
 ----
 icon: bee-smoke
 ----
-text: Nunc vitae leo ullamcorper, pretium quam nec, egestas nibh. Aliquam et quam id est vestibulum placerat. Ut et metus posuere, convallis urna non, pulvinar velit. Maecenas ac nisi vitae eros finibus lobortis.
+text: Add some text

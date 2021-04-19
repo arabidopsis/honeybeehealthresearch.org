@@ -2,4 +2,4 @@ _model: news
 ---
 title: News
 ---
-body: under construction
+body: {{ under-construction }}
