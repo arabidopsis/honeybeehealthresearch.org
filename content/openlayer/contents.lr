@@ -1,0 +1,24 @@
+_model: page
+---
+title: Open Layer
+---
+body:
+
+<h3 class="hl">This is a header</h3>
+
+## maps36
+
+{{omap w-75 mx-auto  shadow rounded border border-info lon=115.8184 lat=-31.98161 zoom=17 height=400  opacity=.8
+body="We are here in the Baylis building over here and here yas!" header="Us!"}}
+
+----
+
+If we specify a style like `color=blue` then we need to add a colon ':'
+
+follow me on [{{fab twitter p-3  br-100 f3 white bg-pink align-middle shadow grow}}: -new-tab](https://twitter.com/mememe) OK!
+
+follow me on [{{fab twitter p-3  br-100 f3 white bg-pink align-middle shadow grow color=blue}}](https://twitter.com/mememe) OK!
+
+[<i style="color:blue">xSome2 more text</i>](linxk)
+---
+navbar: Open Layer

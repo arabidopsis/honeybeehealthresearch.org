@@ -10,11 +10,13 @@ url = https://honeybeehealthresearch.org/
 # mickie, hollar, sunset,wandoo, graymor, electro, lymcha, deeply, minco, skeeblu, preptor, monotone
 
 theme = sunset
-bootstrap = darkster.min.css
-is_dark_theme = true
+# bootstrap = darkster.min.css
+is_dark_theme = false
 
 [packages]
-# packages
+# more for the admin page
+lektor-markdown-highlighter = 0.3.1
+
 
 [servers.production]
 target = rsync:///var/www/websites4/honeybee/static?delete=yes

@@ -25,7 +25,6 @@ Hire us we are *awesome*
 Hire us we are *awesome*
 Hire us we are *awesome*
 Hire us we are *awesome*
-Hire us we are *awesome*
 #### vignette ####
 title: Queens
 ----
@@ -42,3 +41,5 @@ link: https://plantenergy.edu.au
 icon: bee-smoke
 ----
 text: Nunc vitae leo ullamcorper, pretium quam nec, egestas nibh. Aliquam et quam id est vestibulum placerat. Ut et metus posuere, convallis urna non, pulvinar velit. Maecenas ac nisi vitae eros finibus lobortis.
+---
+cols: 4

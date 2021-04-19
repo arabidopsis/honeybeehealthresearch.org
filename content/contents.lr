@@ -29,8 +29,8 @@ We maintain a beeyard at the University of Western Australia to breed and mainta
 * <i class="feature fas fa-puzzle-piece"></i> **Research** Puttin  the pieces of the puzzle together.
 * <i class="feature fas fa-pencil-alt"></i> **Advances** We have pursued research at the most advanced level.
 * {{ fa language feature }} **Multilingual** We can speak multiple languages.
-* {{ fa globe feature }} **Or** use a short code
-* {{ fa beer feature }}  **Bees!** 
+* {{ fas globe feature }} **Or** use a short code
+* {{ fas beer feature }}  **Bees!** 
 
 ---
 header: rfid-drone2.jpg
@@ -40,8 +40,15 @@ navbar: fergel
 fragments:
 
 #### highlight ####
+path: /extras/highlights
+#### highlight ####
 path: /extras/parallax
+#### page ####
+title: a nice title
+----
+body:
+
+![bee: w-50 float-right m-2 shadow](horse.jpg)
+We maintain a beeyard at the University of Western Australia to breed and maintain honey bees for our experiments. We are able to study the response of a colonies or individuals (for example drones) to an experimental stimulus. For example, we can infect individuals with a disease and the measure their changes in gene expression, protein expression and also behaviour and physiological effects. 
 #### highlight ####
 path: /extras/vignettes
-#### highlight ####
-path: /extras/highlights
