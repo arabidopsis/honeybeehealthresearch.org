@@ -18,6 +18,9 @@ Crawley WA 6009
 * {{fa fax}}: +61 8 6488 4401
 * {{fa at}}: julia.grassl[at]uwa.edu.au
 
+## Send us a message
+
+{{contact-form action=/app/contact-form/contact-us w-75 mx-auto border border-info shadow p-3 }}
 
 ## How to find us
 
