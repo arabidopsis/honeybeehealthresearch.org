@@ -3,3 +3,7 @@ _model: page
 title: About Honey Bee Health
 ---
 body: {{ under-construction }}
+---
+header_image: penguins.jpg
+---
+navbar: 

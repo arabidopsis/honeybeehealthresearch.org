@@ -6,19 +6,14 @@ body:
 ---
 publications:
 
-#### page ####
-title: Big title
-----
-body:
-
-# and some text
-## subheader
 #### publication ####
 title: Seminal fluid of honeybees contains multiple mechanisms to combat infections of the sexually transmitted pathogen Nosema apis
 ----
 journal: Proceedings of the Royal Society B: Biological Sciences
 ----
 date: 2016-02-27
+----
+year: 2016
 ----
 pubmed: 
 ----
@@ -27,15 +22,89 @@ doi: 10.1098/rspb.2015.1785
 authors: Y Peng, J Grassl, AH Millar, B Baer
 ----
 tags: research
-#### publication ####
-title: 
+#### page ####
+title: Highlight paper
 ----
-journal: 
+body: This is a great publication
+#### publication ####
+title: Synergistic effects of pathogen and pesticide exposure on honey bee (Apis mellifera) survival and immunity
+----
+journal: Journal of invertebrate pathology
 ----
 date: 
+----
+year: 2018
 ----
 pubmed: 
 ----
 doi: 
 ----
-authors: 
+authors: J Grassl, S Holt, N Cremen, M Peso, D Hahne, B Baer
+----
+tags: research
+#### publication ####
+title: Protein-level interactions as mediators of sexual conflict in ants
+----
+journal: Molecular & Cellular Proteomics
+----
+date: 
+----
+year: 2018
+----
+pubmed: 
+----
+doi: 10.1074/mcp.RA118.000941
+----
+authors:
+
+Ryan Dosselli,  Julia Grassl,  Susanne P.A. den Boer, Madlen Kratz,  Jessica M. Moran,  Jacobus J. Boomsma, Boris Baer 
+----
+tags: research
+#### publication ####
+title: Infections with the Sexually Transmitted Pathogen Nosema apis Trigger an Immune Response in the Seminal Fluid of Honey Bees (Apis mellifera)
+----
+journal: Journal of proteome research
+----
+date: 
+----
+year: 2016
+----
+pubmed: 
+----
+doi: 10.1021/acs.jproteome.6b00051
+----
+authors: J Grassl, Y Peng, B Baer-Imhoof, M Welch, AH Millar, B Baer
+----
+tags: research
+#### publication ####
+title: Differential proteomics reveals novel insights into Nosema–honey bee interactions
+----
+journal: Insect biochemistry and molecular biology
+----
+date: 
+----
+year: 2016
+----
+pubmed: 
+----
+doi: doi.org/10.1016/j.ibmb.2016.10.005
+----
+authors: C Kurze, R Dosselli, J Grassl, Y Le Conte, P Kryger, B Baer, RFA Moritz
+----
+tags: research
+#### publication ####
+title: Flight behaviour of honey bee (Apis mellifera) workers is altered by initial infections of the fungal parasite Nosema apis
+----
+journal: Scientific reports
+----
+date: 
+----
+year: 2016
+----
+pubmed: 
+----
+doi: 10.1074/mcp.RA118.000941
+----
+authors: R Dosselli, J Grassl, A Carson, LW Simmons, B Baer
+----
+tags: research
