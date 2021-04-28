@@ -4,6 +4,8 @@ _model: landing-page
 ---
 body:
 
+{{ under-construction }}
+
 {{ youtube w1rdO2ouZoQ w-100 }}
 
 ## Honey Bee Health Research Group: An overview
@@ -20,16 +22,17 @@ We maintain a beeyard at the University of Western Australia to breed and mainta
 
 ----
 
-## Bees Wax!
+## Bees!
 
 * <i class="feature fas fa-bug"></i> **Bee Friendly** Committed to finding solutions to diseases in bees.
 * <i class="feature fas fa-globe"></i> **International** Collaboration with many researchers from all around the world.
 * <i class="feature fas fa-users"></i> **Outreach** Fully community oriented.
 * <i class="feature fas fa-puzzle-piece"></i> **Research** Puttin  the pieces of the puzzle together.
 * <i class="feature fas fa-pencil-alt"></i> **Advances** We have pursued research at the most advanced level.
-* {{ fa language feature }} **Multilingual** We can speak multiple languages.
+* {{ fa language feature }} **News** [We can speak multiple languages](/news).
 * {{ fa globe feature }} **Or** use a short code
-* {{ fa beer feature }}  **Bees!** 
+* <i class="feature fab fa-forumbee"></i> **Bees**
+
 
 ---
 header: Drone2

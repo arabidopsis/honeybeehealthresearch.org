@@ -6,10 +6,31 @@ body:
 ---
 publications:
 
+#### page ####
+title: Big title
+----
+body:
+
+# and some text
+## subheader
 #### publication ####
 title: Seminal fluid of honeybees contains multiple mechanisms to combat infections of the sexually transmitted pathogen Nosema apis
 ----
 journal: Proceedings of the Royal Society B: Biological Sciences
+----
+date: 2016-02-27
+----
+pubmed: 
+----
+doi: 10.1098/rspb.2015.1785
+----
+authors: Y Peng, J Grassl, AH Millar, B Baer
+----
+tags: research
+#### publication ####
+title: 
+----
+journal: 
 ----
 date: 
 ----
@@ -17,6 +38,4 @@ pubmed:
 ----
 doi: 
 ----
-authors: Y Peng, J Grassl, AH Millar, B Baer
-----
-tags: research
+authors: 
