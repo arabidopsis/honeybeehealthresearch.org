@@ -11,7 +11,7 @@ url = https://honeybeehealthresearch.org/
 
 # frontispiece = "Ha Ha Ha!"
 
-theme = sunset
+# theme = sunset
 # bootstrap = darkster.min.css
 is_dark_theme = false
 
