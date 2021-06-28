@@ -1,9 +1,10 @@
 {
 "home" : 1,
-"contact"  : 99,
 "news"  : 10,
 "people"  : 60,
-"publications"  : 99,
-"sitemap"  : 100,
-"uwa-bee-services" : 77
+"uwa-bee-services" : 77,
+"publications"  : 80,
+"links"  : 81,
+"contact-us"  : 99,
+"sitemap"  : 100
 }
