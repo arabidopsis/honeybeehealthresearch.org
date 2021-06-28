@@ -7,24 +7,30 @@ body:
 
 # How to contact Honey Bee Health Research
 
-We here provide you with our contact details, a map where to find us.
+##Courier Address
+
+Honey Bee Health Research
+The University of Western Australia
+Fairway Entry 4
+Bayliss Building (211)
+Crawley, Perth WA 6009
+Australia
 
 ## UWA contact
 
-The University of Western Australia 
-Crawley WA 6009 
+* {{fa phone}}: +61 8 6488 4411
 
-* {{fa phone}}: +61 8 6488 4495
-* {{fa fax}}: +61 8 6488 4401
-* {{fa at}}: julia.grassl[at]uwa.edu.au
+* {{fa at}}: julia.grassl@uwa.edu.au
+
+## Postal Address
+
+School of Molecular Sciences
+The University of Western Australia (M310)
+35 Stirling Highway
+Crawley, Perth WA 6009, Australia
 
 ## Send us a message
 
 {{contact-form action=/app/contact-form/contact-us w-75 mx-auto border border-info shadow p-3 }}
 
-## How to find us
-
-Click on icons like {{fa map-marker color=#3333ff}} in the map for more information about facilities.
-
-{{maps  w-100  msid=110479394355666920620.000479067dcf6df18c9f3 ll=-31.983017,115.818322 z=16 }}
 

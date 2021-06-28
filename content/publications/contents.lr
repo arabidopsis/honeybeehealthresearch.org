@@ -1,53 +1,47 @@
 _model: publications
 ---
-title: Honey Bee Health Group Publications
+title: Publications
 ---
 body: 
 ---
 publications:
 
 #### publication ####
-title: Seminal fluid of honeybees contains multiple mechanisms to combat infections of the sexually transmitted pathogen Nosema apis
+title: Protein-level interactions as mediators of sexual conflict in ants
 ----
-journal: Proceedings of the Royal Society B: Biological Sciences
+journal: Molecular & Cellular Proteomics
 ----
-date: 2016-02-27
-----
-year: 2016
+year: 2019
 ----
 pubmed: 
 ----
-doi: 10.1098/rspb.2015.1785
+doi: 10.1074/mcp.RA118.000941
 ----
-authors: Y Peng, J Grassl, AH Millar, B Baer
+authors: Ryan Dosselli, Julia Grassl, Susanne PA den Boer, Madlen Kratz, Jessica M Moran, Jacobus J Boomsma, Boris Baer
 ----
 tags: research
-#### page ####
-title: Highlight paper
-----
-body: This is a great publication
 #### publication ####
 title: Synergistic effects of pathogen and pesticide exposure on honey bee (Apis mellifera) survival and immunity
 ----
 journal: Journal of invertebrate pathology
 ----
-date: 
-----
 year: 2018
 ----
 pubmed: 
 ----
-doi: 
+doi: 10.1016/j.jip.2018.10.005
 ----
 authors: J Grassl, S Holt, N Cremen, M Peso, D Hahne, B Baer
 ----
 tags: research
+#### page ####
+title: 
+----
+body: 
 #### publication ####
 title: Protein-level interactions as mediators of sexual conflict in ants
 ----
 journal: Molecular & Cellular Proteomics
-----
-date: 
 ----
 year: 2018
 ----
@@ -61,11 +55,23 @@ Ryan Dosselli,  Julia Grassl,  Susanne P.A. den Boer, Madlen Kratz,  Jessica M. 
 ----
 tags: research
 #### publication ####
+title: Seminal fluid of honeybees contains multiple mechanisms to combat infections of the sexually transmitted pathogen Nosema apis
+----
+journal: Proceedings of the Royal Society B: Biological Sciences
+----
+year: 2016
+----
+pubmed: 
+----
+doi: 10.1098/rspb.2015.1785
+----
+authors: Y Peng, J Grassl, AH Millar, B Baer
+----
+tags: research
+#### publication ####
 title: Infections with the Sexually Transmitted Pathogen Nosema apis Trigger an Immune Response in the Seminal Fluid of Honey Bees (Apis mellifera)
 ----
 journal: Journal of proteome research
-----
-date: 
 ----
 year: 2016
 ----
@@ -81,8 +87,6 @@ title: Differential proteomics reveals novel insights into Nosema–honey bee in
 ----
 journal: Insect biochemistry and molecular biology
 ----
-date: 
-----
 year: 2016
 ----
 pubmed: 
@@ -97,8 +101,6 @@ title: Flight behaviour of honey bee (Apis mellifera) workers is altered by init
 ----
 journal: Scientific reports
 ----
-date: 
-----
 year: 2016
 ----
 pubmed: 
@@ -108,3 +110,17 @@ doi: 10.1074/mcp.RA118.000941
 authors: R Dosselli, J Grassl, A Carson, LW Simmons, B Baer
 ----
 tags: research
+#### publication ####
+title: 
+----
+journal: 
+----
+year: 
+----
+pubmed: 
+----
+doi: 
+----
+authors: 
+---
+navbar: Publications
