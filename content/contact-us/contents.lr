@@ -31,6 +31,6 @@ Crawley, Perth WA 6009, Australia
 
 ## Send us a message
 
-{{contact-form action=/app/contact-form/contact-us w-75 mx-auto border border-info shadow p-3 }}
+{{contact-form action=/lektor/contact-form/contact-us w-75 mx-auto border border-info shadow p-3 }}
 
 
