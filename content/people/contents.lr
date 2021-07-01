@@ -3,3 +3,5 @@ _model: people
 title: People
 ---
 body: [Alumni](/alumni)
+---
+navbar_location: 5

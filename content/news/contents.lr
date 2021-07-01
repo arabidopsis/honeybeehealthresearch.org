@@ -3,3 +3,5 @@ _model: news
 title: Honey Bee News
 ---
 navbar: News
+---
+navbar_location: 1
