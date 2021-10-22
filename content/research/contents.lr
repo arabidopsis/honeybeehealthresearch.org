@@ -1,14 +1,12 @@
 _model: page
 ---
-title: Research
+title: Research Projects
 ---
 body:
 
-## Under Construction
-
-#Projects
 
 ##Nutrition
+Maintaining good nutritional health of honey bees is a worldwide problem for the beekeeping industry. Identifying molecular and biochemical profiles of nutritional honey bee decline using mass spectrometry analysis,  we determine the metabolite and lipid profiles of honey bees under starvation conditions and comparing different supplementary feeds. These molecular profiles are being correlated with hive indicators of health and performance to assess the nutritional condition of the colony. This study will provide a greater understanding of the metabolic changes that occur in bees in nutritional decline, which makes them less efficient in their hive duties but also more susceptible to diseases. The scientific results generated from this project will assist beekeepers with management decisions, minimizing the risk of productivity losses.
 
 Funding: CRC for Honey Bee Products (2017 - 2022) "Honey Bee Nutrition - Early detection of malnutrition and colony collapse"
 
@@ -18,13 +16,14 @@ Funding: CRC for Honey Bee Products (2017 - 2022) "Molecular marker identificati
 
 
 ##American Foulbrood
+American foulbrood (AFB) is the most costly honey bee disease in Australia. Caused by the bacterium, Paenibacillus larvae, AFB kills honey bee larvae and converts the cadaver to a foul smelling, spore-laden, glue-like mass. Early detection and intervention is critical to prevent the disease from spreading to nearby hives and apiaries. Although various diagnostic methods have been developed, AFB remains a significant problem for beekeepers. Diagnosis is often slow, generally requiring beekeepers to open hives and visually identify AFB symptoms. In this project, we investigated the volatile compounds associated with the notoriously foul smell of AFB, to determine if specific compounds could be used as a method for quick and non-invasive diagnosis. We used gas chromatography mass spectrometry (GC-MS) to identify numerous compounds that are significantly elevated in - or exclusive to - AFB-diseased brood, compared to healthy brood. We further investigated specificity of the compounds for AFB compared to brood that had died of temperature shock or other brood diseases. These biomarker compounds can be used to diagnose AFB-diseased brood with an accuracy over 97%. In a follow-up field experiment, we demonstrated that these volatile biomarkers could be detected non-invasively in beehive air. We are now developing sensor surfaces for the biomarkers to create a portable, electronic, diagnostic “beehive breathalyser” device. The goal of this work is to develop a practical and cost-effective tool that will de-risk high-density beekeeping through improved biosecurity.
 
 Funding: AgriFutures (2020-2023) "Diagnostics for American Foulbrood in Honey Bees",  CRC for Honey Bee Products (2017 - 2022) "Honey bee disease diagnostics"
 
+##Honey Bee Venom as Cancer Therapy
+This research project is analyzing honey bee venom proteins and peptides and how they affect different types of breast cancer cell lines. One of its major components, melittin, is widely known to be effective against these breast cancer types. However, the honey bee venom is more selective, hinting some interactions with melittin conferring these properties. Here we investigate the synergistic and protective properties of individual venom components in cancer therapy. 
 
-
-
-
+Funding: CRC for Honey Bee Products (2017 - 2022)
 
 ---
 navbar_location: 11
