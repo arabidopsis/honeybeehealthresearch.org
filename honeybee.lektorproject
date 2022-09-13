@@ -20,5 +20,3 @@ lektor-markdown-highlighter = 0.3.1
 # packages
 
 [servers.production]
-target = rsync:///var/www/websites4/honeybee/static?delete=yes
-name = website
