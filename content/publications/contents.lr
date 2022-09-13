@@ -7,6 +7,34 @@ body:
 publications:
 
 #### publication ####
+title: Volatile biomarkers for non-invasive detection of American foulbrood, a threat to honey bee pollination services
+----
+journal: Science of the Total Environment
+----
+year: 2022
+----
+pubmed: 35810895
+----
+doi: 10.1016/j.scitotenv.2022.157123
+----
+authors: Jessica M. Bikaun; Tiffane Bates; Maike Bollen; Gavin Flematti; Joanna Melonek; Praveen Praveen; Julia Grassl
+----
+tags: research
+#### publication ####
+title: Genetic Variation in Antimicrobial Activity of Honey Bee (Apis mellifera) Seminal Fluid
+----
+journal: Frontiers in Ecology and Evolution
+----
+year: 2021
+----
+pubmed: 
+----
+doi: 10.3389/fevo.2021.755226
+----
+authors: Shannon Holt, Naomi Cremen, Julia Grassl, Paul Schmid-Hempel, Boris Baer
+----
+tags: research
+#### publication ####
 title: Protein-level interactions as mediators of sexual conflict in ants
 ----
 journal: Molecular & Cellular Proteomics
@@ -110,18 +138,6 @@ doi: 10.1074/mcp.RA118.000941
 authors: R Dosselli, J Grassl, A Carson, LW Simmons, B Baer
 ----
 tags: research
-#### publication ####
-title: 
-----
-journal: 
-----
-year: 
-----
-pubmed: 
-----
-doi: 
-----
-authors: 
 ---
 navbar: Publications
 ---
